@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 AgriPredic – Crop Disease & Risk Prediction
 
 An AI-powered full-stack platform that helps farmers detect crop diseases
@@ -216,3 +217,7 @@ Provided as a project scaffold for educational/portfolio use. Attach your
 own license before public/commercial distribution. The PlantVillage
 dataset (if you download it) has its own license terms — review before
 redistributing trained weights.
+=======
+# Agripredic
+AgriPredic is an AI-based web application that detects crop diseases from leaf images and predicts agricultural risks using weather data. It helps farmers identify diseases early, make informed decisions, reduce crop losses, and improve productivity.
+>>>>>>> 4b927a6916eb99036d22cb7507e83d10c032267e
