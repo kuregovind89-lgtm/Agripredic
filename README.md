@@ -98,9 +98,9 @@ Beyond the core disease-detection flow, AgriPredic now includes:
 
 ## 🚀 Step-by-Step: Run Locally
 
-### 1. Unzip the project
+### 1.  the project
 ```bash
-unzip AgriPredic.zip
+
 cd AgriPredic
 ```
 
